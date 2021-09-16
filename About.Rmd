@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: Yen-Ju Chen
+author: "你的名字"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-I come from professor Huan's lab
+NULL
 
 - 我決定來這裡的動機？
 
-For earning money?
+NULL
 
 - 我對這門課的期望？
 
-Not sure
+NULL
